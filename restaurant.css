@@ -42,5 +42,5 @@ li {margin: 15px; list-style: none; background-color: brown; padding: 7px; color
 
 
 
-
+#first3 { display:flex;justify-content:center;background-color: brown;}
 
