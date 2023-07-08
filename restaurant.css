@@ -1,0 +1,10 @@
+.navbar {display:flex;
+justify-content: space-between;
+width: 100%; align-items: center; background-color: bisque; height: 120px;
+}
+
+ul {display: flex; justify-content: space-between;font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+li {margin: 15px; list-style: none; background-color: brown; padding: 7px; color: white;}
+
+.ull{margin-right: 30px;}
