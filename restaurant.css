@@ -1,10 +1,25 @@
+*{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
 .navbar {display:flex;
 justify-content: space-between;
 width: 100%; align-items: center; background-color: bisque; height: 120px;
 }
 
-ul {display: flex; justify-content: space-between;font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+ul {display: flex; justify-content: space-between;}
 
 li {margin: 15px; list-style: none; background-color: brown; padding: 7px; color: white;}
 
 .ull{margin-right: 30px;}
+
+.container{ background-image: url(images/wallpaperflare.com_wallpaper.jpg); height: 800px;image-orientation:; margin-top: -70px;}
+
+.top-text{ background-color: rgba(166, 43, 43, 0.5); width: 800px; height: 800px; background-blend-mode:multiply; margin-left: 40px; }
+
+.hd1{font-size: 130px; color: white; text-shadow: 4px 4px #000000; margin-left: 20px;}
+
+.hd3{font-size: 50px;color: white; text-decoration:underline;margin-left: 20px;margin-top: -70px;}
+
+.pg{margin-left: 20px;color: white; font-size: 36px; margin-top: 70px; background-color: brown;width: px; margin-left: -0.5px; padding-left: 20px; }
+
+
+
