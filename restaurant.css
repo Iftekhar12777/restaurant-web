@@ -21,7 +21,20 @@ li {margin: 15px; list-style: none; background-color: brown; padding: 7px; color
 
 .pg{margin-left: 20px;color: white; font-size: 36px; margin-top: 70px; background-color: brown;width: px; margin-left: -0.5px; padding-left: 20px; }
 
-.hdt1{background-color: brown; width: 480px; padding: 5px; color: white;text-align: center; margin-left: 900.2px; box-shadow:4px 4px black;font-size: 70px;}
+.hdt1{background-color: brown; width: 480px; padding: 5px; color: white;text-align: center; margin-left: 800px; box-shadow:4px 4px black;font-size: 70px;}
+
+.description{width: 3700px; text-align: center;margin: 0%;margin-right: 450px; position: relative; background-color: brown;padding: 50px; color: white;}
+
+.section{display: flex;width: 100%; margin: 0%;position: relative;}
+
+.delicious{font-size: 50px;}
+
+.enjoy{font-size: 25px;}
+
+.image{margin-left: 500px;background-color: rgba(165, 42, 42,0.9);padding: 10px;padding-top: 65px;}
+
+.ibu{font-size: 18px;text-align: justify;
+
 
 
 
