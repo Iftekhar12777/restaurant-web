@@ -1,4 +1,4 @@
-*{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+*{font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif}
 
 .navbar {display:flex;
 justify-content: space-between;
@@ -13,13 +13,17 @@ li {margin: 15px; list-style: none; background-color: brown; padding: 7px; color
 
 .container{ background-image: url(images/wallpaperflare.com_wallpaper.jpg); height: 800px;image-orientation:; margin-top: -70px;}
 
-.top-text{ background-color: rgba(166, 43, 43, 0.5); width: 800px; height: 800px; background-blend-mode:multiply; margin-left: 40px; }
+.top-text{ background-color: rgba(166, 43, 43, 0.9); width: 800px; height: 800px; background-blend-mode:multiply; margin-left: 40px; }
 
-.hd1{font-size: 130px; color: white; text-shadow: 4px 4px #000000; margin-left: 20px;}
+.hd1{font-size: 130px; color: white; text-shadow: 4px 4px #000000; margin-left: 20px; margin-bottom: 80px;padding-top: 100px;}
 
-.hd3{font-size: 50px;color: white; text-decoration:underline;margin-left: 20px;margin-top: -70px;}
+.hd3{font-size: 50px;color: white; text-decoration:underline;margin-left: 20px;margin-top: -50px;}
 
 .pg{margin-left: 20px;color: white; font-size: 36px; margin-top: 70px; background-color: brown;width: px; margin-left: -0.5px; padding-left: 20px; }
+
+.hdt1{background-color: brown; width: 480px; padding: 5px; color: white;text-align: center; margin-left: 900.2px; box-shadow:4px 4px black;font-size: 70px;}
+
+
 
 
 
