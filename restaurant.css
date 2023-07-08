@@ -44,3 +44,12 @@ li {margin: 15px; list-style: none; background-color: brown; padding: 7px; color
 
 #first3 { display:flex;justify-content:center;background-color: brown;width: 861px;margin-left: 500px;justify-content: space-between;padding: 50px; align-items: center;margin-top: 30px;}
 
+.menu-img{margin-bottom: -10px; margin-left: 30px;}
+
+.cknbiriany{float: left; font-size: 30px; font-weight: 800;margin-bottom: 35px;background-color: rgb(33, 32, 32); padding: 5px;color: white;border-radius: 3px;}
+
+.chik-fry{float: left; font-size: 30px; font-weight: 800;margin-top: px; background-color: rgb(33, 32, 32); padding: 5px;color: white;border-radius: 3px;}
+
+.chik-img{margin-bottom:17px;}
+
+.hburger{float: left; font-size: 30px; font-weight: 800; background-color: rgb(33, 32, 32); padding: 5px;color: white;border-radius: 3px;}
