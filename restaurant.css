@@ -56,3 +56,12 @@ li {margin: 15px; list-style: none; background-color: brown; padding: 7px; color
 
 
 .second3{display:flex;justify-content:center;background-color: brown;width: 861px;margin-left: 500px;justify-content: space-between;padding: 50px; align-items: center;margin-top: 30px;}
+
+
+.kebab{float: left; font-size: 30px; font-weight: 800; background-color: rgb(33, 32, 32); padding: 5px;color: white;border-radius: 3px;margin-top: px;margin-left: 20px;}
+
+.kebab-img{margin-top: 40px;}
+
+.soup{float: left; font-size: 30px; font-weight: 800; background-color: rgb(33, 32, 32); padding: 5px;color: white;border-radius: 3px;margin-left: 10px;}
+
+.salmon{float: left; font-size: 30px; font-weight: 800; background-color: rgb(33, 32, 32); padding: 5px;color: white;border-radius: 3px;margin-left: 10px;}
