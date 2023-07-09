@@ -65,3 +65,10 @@ li {margin: 15px; list-style: none; background-color: brown; padding: 7px; color
 .soup{float: left; font-size: 30px; font-weight: 800; background-color: rgb(33, 32, 32); padding: 5px;color: white;border-radius: 3px;margin-left: 10px;}
 
 .salmon{float: left; font-size: 30px; font-weight: 800; background-color: rgb(33, 32, 32); padding: 5px;color: white;border-radius: 3px;margin-left: 10px;}
+
+.form{margin: 20px 500px; background-color: brown;display: flex;height: 50px; width: 961px;justify-content: space-around;align-items: center;}
+
+.form-elements{font-weight: 800; color: white;font-size: 20px;}
+
+button{background-color: brown;border-color: whitesmoke;color: white;font-weight: bold;font-size: 30px;margin-left: 920px;}
+
